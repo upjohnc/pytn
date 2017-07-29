@@ -17,7 +17,7 @@
             "description": "", 
             "insitetree": true, 
             "hint": "", 
-            "url": "cms_page \"about/\"", 
+            "url": "cms_page \"about/\"",
             "inbreadcrumbs": true, 
             "title": "About", 
             "tree": 1, 
